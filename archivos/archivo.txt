@@ -1,0 +1,4 @@
+Comienzo del texto estudiar python 
+ el Lunes
+ Esta linea ha sido incluida desde el exterior 
+n
